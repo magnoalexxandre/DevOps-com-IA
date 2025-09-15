@@ -133,7 +133,7 @@ dashboard/                     # Dashboards Grafana
 ```bash
 # Clone o repositório
 git clone <repository-url>
-cd maratona-com-ia
+cd DevOps-com-IA
 
 # Navegue para o diretório da aplicação
 cd src/
