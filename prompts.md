@@ -28,7 +28,7 @@ O comando Docker build será executado dentro da pasta @src
 **Explicação**: Prompt para criar do zero os arquivos Docker necessários para containerizar a aplicação.
 **Objetivo**: Containerizar a aplicação principal do bootcamp
 
-## 🤖 Prompts para Claude Code - Docker
+## 🤖 Prompts para Gemini/Claude Code - Docker
 
 ### 1. Listagem de Containers
 ```
@@ -161,6 +161,6 @@ Organize as recomendações por prioridade:
 ## 📋 Resumo
 
 - **Total de prompts**: 8 prompts simples + 1 prompt complexo
-- **Categorias**: Docker (3), Claude Code (4), Kubernetes (3), Análise Avançada (1)
+- **Categorias**: Docker (3), Gemini Code (4), Kubernetes (3), Análise Avançada (1)
 - **Finalidade**: Automação de tarefas DevOps através de IA
 - **Aplicação**: Bootcamp prático de DevOps com integração de IA
